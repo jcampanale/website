@@ -11,7 +11,7 @@ class Projects extends React.Component {
         <div className='container'>
             <div className='items'>
                 <div class='card'>
-                    <img src='./images/memory.jpg' width='405' height='200' className='projImg'/>
+                    <img src='./images/memory.jpg' width='405' height='200' className='projImg' alt='Simon Says Memory Game Image'/>
                     <div class='card-container'>
                         <div className='containerItems'>
                             <h2>Simon Says Memory Game</h2>
@@ -35,7 +35,7 @@ class Projects extends React.Component {
             </div>
             <div className='items'>
             <div class='card'>
-                    <img src='./images/tale.jpg' width='405' height='200' className='projImg'/>
+                    <img src='./images/tale.jpg' width='405' height='200' className='projImg' alt='Tale of the Sword Guy Image'/>
                     <div class='card-container'>
                         <div className='containerItems'>
                             <h2>ASCII Text Game Engine<br/> + Games</h2>
@@ -58,7 +58,7 @@ class Projects extends React.Component {
             </div>
             <div className='items'>
             <div class='card'>
-                    <img src='./images/conway.png' width='405' height='200' className='projImg'/>
+                    <img src='./images/conway.png' width='405' height='200' className='projImg' alt='John Conways Game of Life Image'/>
                     <div class='card-container'>
                         <div className='containerItems'>
                             <h2>John Conway's Game of<br/> Life</h2>
