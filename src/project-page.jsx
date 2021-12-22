@@ -78,6 +78,29 @@ class Projects extends React.Component {
                     </div>
                 </div>
             </div>
+            <div className='items'>
+            <div class='card'>
+                    <img src='./images/overlay.jpg' width='405' height='200' className='projImg' alt='Overlay Network Image'/>
+                    <div class='card-container'>
+                        <div className='containerItems'>
+                            <h2>ASCII Text Game Engine<br/> + Games</h2>
+                            <br/>
+                            <ul>
+                                <li>Developed a fully functional game engine <br/>
+                                with ASCII Text based graphics using C++</li>
+                                <li>Utilized Simple and Fast Multimedia Library <br/>
+                                for sound, and Visual Studio for window display</li>
+                                <li>Worked with a partner to develop and release <br/>
+                                a game to our classmates</li>
+                            </ul>
+                            <br/>
+                            <p>A video trailer of the final game can be found
+                            <br/> <a href='https://www.youtube.com/watch?v=ww84Fs2NXpw' class='vidLink'>here</a></p>
+                            <br/>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
       </>
     );
