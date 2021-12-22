@@ -80,7 +80,7 @@ class Projects extends React.Component {
             </div>
             <div className='items'>
             <div class='card'>
-                    <img src='./images/overlay.jpg' width='405' height='200' className='projImg' alt='Overlay Network Image'/>
+                    <img src='./images/overlay.png' width='405' height='200' className='projImg' alt='Overlay Network Image'/>
                     <div class='card-container'>
                         <div className='containerItems'>
                             <h2>ASCII Text Game Engine<br/> + Games</h2>
