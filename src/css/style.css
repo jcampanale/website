@@ -48,7 +48,7 @@ body{
 }
 
 .rightHalf {
-    background: url(./images/portfolio-pic.jpg);
+    background: url(./images/portfolio-pic.webp);
     background-size: cover;
     background-repeat: no-repeat;
     width: 51%;
