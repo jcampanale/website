@@ -60,7 +60,7 @@ class Projects extends React.Component {
     }, /* @__PURE__ */ React.createElement("div", {
       class: "card"
     }, /* @__PURE__ */ React.createElement("img", {
-      src: "./images/overlay.jpg",
+      src: "./images/overlay.png",
       width: "405",
       height: "200",
       className: "projImg",
