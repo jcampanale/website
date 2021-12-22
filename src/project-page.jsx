@@ -86,8 +86,9 @@ class Projects extends React.Component {
                             <h2>Overlay Network with<br/> UDP Sockets</h2>
                             <br/>
                             <ul>
-                                <li>Developed an overlay network on a team of 2 <br/>
-                                with 3 end hosts and 3 routers on Linux VMs in C++</li>
+                                <li>Developed an overlay network on a team <br/>
+                                of 2 which uses 3 end hosts and 3 routers on <br/>
+                                Linux VMs in C++</li>
                                 <li>Connection is established using UDP sockets </li>
                                 <li>A configuration file is used to establish what <br/>
                                 is a router and what is an end host</li>
