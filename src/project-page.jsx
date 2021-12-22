@@ -89,13 +89,15 @@ class Projects extends React.Component {
                                 <li>Developed an overlay network on a team of 2 <br/>
                                 with 3 end hosts and 3 routers on Linux VMs in C++</li>
                                 <li>Connection is established using UDP sockets </li>
+                                <li>A configuration file is used to establish what <br/>
+                                is a router and what is an end host</li>
                                 <li>Data is sent in 1000 byte payloads including </li>
                                 <li>Packets consist of a manually created overlay <br/>
                                 header and the payload being sent</li>
+                                <li>Routers utilize Drop Tail Queuing in order to <br/>
+                                avoid congestion</li>
                             </ul>
                             <br/>
-                            <p>A video trailer of the final game can be found
-                            <br/> <a href='https://www.youtube.com/watch?v=ww84Fs2NXpw' class='vidLink'>here</a></p>
                             <br/>
                         </div>
                     </div>
