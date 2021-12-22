@@ -92,7 +92,7 @@ class Projects extends React.Component {
                                 <li>Connection is established using UDP sockets </li>
                                 <li>A configuration file is used to establish what <br/>
                                 is a router and what is an end host</li>
-                                <li>Data is sent in 1000 byte payloads including </li>
+                                <li>Data is sent in 1000 byte payloads</li>
                                 <li>Packets consist of a manually created overlay <br/>
                                 header and the payload being sent</li>
                                 <li>Routers utilize Drop Tail Queuing in order to <br/>
