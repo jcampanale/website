@@ -88,7 +88,8 @@ class Projects extends React.Component {
                             <ul>
                                 <li>Developed an overlay network on a team <br/>
                                 of 2 which uses 3 end hosts and 3 routers on <br/>
-                                Linux VMs in C++</li>
+                                Linux VMs </li>
+                                <li>Coded using C++</li>
                                 <li>Connection is established using UDP sockets </li>
                                 <li>A configuration file is used to establish what <br/>
                                 is a router and what is an end host</li>
