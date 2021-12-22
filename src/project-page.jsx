@@ -99,7 +99,6 @@ class Projects extends React.Component {
                                 avoid congestion</li>
                             </ul>
                             <br/>
-                            <br/>
                         </div>
                     </div>
                 </div>
