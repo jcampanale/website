@@ -83,15 +83,15 @@ class Projects extends React.Component {
                     <img src='./images/overlay.png' width='405' height='200' className='projImg' alt='Overlay Network Image'/>
                     <div class='card-container'>
                         <div className='containerItems'>
-                            <h2>ASCII Text Game Engine<br/> + Games</h2>
+                            <h2>Overlay Network with<br/> UDP Sockets</h2>
                             <br/>
                             <ul>
-                                <li>Developed a fully functional game engine <br/>
-                                with ASCII Text based graphics using C++</li>
-                                <li>Utilized Simple and Fast Multimedia Library <br/>
-                                for sound, and Visual Studio for window display</li>
-                                <li>Worked with a partner to develop and release <br/>
-                                a game to our classmates</li>
+                                <li>Developed an overlay network on a team of 2 <br/>
+                                with 3 end hosts and 3 routers on Linux VMs in C++</li>
+                                <li>Connection is established using UDP sockets </li>
+                                <li>Data is sent in 1000 byte payloads including </li>
+                                <li>Packets consist of a manually created overlay <br/>
+                                header and the payload being sent</li>
                             </ul>
                             <br/>
                             <p>A video trailer of the final game can be found
