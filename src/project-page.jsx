@@ -9,6 +9,79 @@ class Projects extends React.Component {
         <Navbar/>
         <h1>Projects</h1>
         <div className='container'>
+        <div className='items'>
+                <div class='card'>
+                    <img src='./images/twgbam.png' width='405' height='200' className='projImg' alt='Tale of the Wand Guy Image'/>
+                    <div class='card-container'>
+                        <div className='containerItems'>
+                            <h2>Tale of the Wand Guy: Back<br/>Alley Magic</h2>
+                            <br/>
+                            <ul>
+                                <li>Worked on a team of 5 to develop an Endless<br/>
+                                Runner with "reverse roguelike" aspects
+                                <br/> using UE4</li>
+                                <li>Created game in 7 weeks including<br/>
+                                alpha and beta builds, using playtesting
+                                <br/> data to improve beta</li>
+                                <li>I worked on the player character including <br/>
+                                feel and abilities. I also worked on several <br/>
+                                minor features like sfx, intro animation, <br/>
+                                and bug fixes</li>
+                            </ul>
+                            <br/>
+                            <p> The Website for this project can be found 
+                            <br/> <a href='https://twgbam.fun/' class='vidLink'>here</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div className='items'>
+                <div class='card'>
+                    <img src='./images/optum.jpg' width='405' height='200' className='projImg' alt='Optum Logo Image'/>
+                    <div class='card-container'>
+                        <div className='containerItems'>
+                            <h2>Custom DevOps Dashboard<br/>for Optum Developers</h2>
+                            <br/>
+                            <ul>
+                                <li>Worked on a team of 5 to develop a custom<br/>
+                                DevOps Dashboard for an Optum Development<br/>Team</li>
+                                <li>Used the Next.js framework for the frontend<br/>
+                                and AWS services such as Lambda, API Gateway, 
+                                <br/>CDK, and DynamoDB for the backend</li>
+                                <li>We worked closely with the Developers to <br/>
+                                ensure the dasboard was useful for debugging</li>
+                            </ul>
+                            <br/>
+                            <p> Note the image used is not my own and can
+                            <br/> be found <a href='https://mms.businesswire.com/media/20211007005785/en/761229/23/Optum%28R%29_RGB.jpg' class='vidLink'>here</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div className='items'>
+                <div class='card'>
+                    <img src='./images/makerspace.jpg' width='405' height='200' className='projImg' alt='Makerspace Image'/>
+                    <div class='card-container'>
+                        <div className='containerItems'>
+                            <h2>Increasing Accessibility and <br/>Belonging at a Makerspace</h2>
+                            <br/>
+                            <ul>
+                                <li>Worked on a team of 5 to foster accessibility<br/>
+                                in training and diversity, equity, inclusion and<br/>
+                                belonging at a local Makerspace</li>
+                                <li>Interviewed Staff, Members, Instructors<br/>
+                                and DEIB Specialists</li>
+                                <li>Made recommendations based on the space's<br/>
+                                current needs</li>
+                            </ul>
+                            <br/>
+                            <p> Note the image used is not my own and can
+                            <br/> be found <a href='https://media.edutopia.org/styles/responsive_2880px_16x9/s3/masters/d7_images/slates/cooper-designing-school-makerspace.jpg' class='vidLink'>here</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
             <div className='items'>
                 <div class='card'>
                     <img src='./images/memory.jpg' width='405' height='200' className='projImg' alt='Simon Says Memory Game Image'/>

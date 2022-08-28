@@ -18,8 +18,8 @@ class App extends React.Component {
               <h2>About Me</h2>
               <br/><br/>
               <p>Hi! My name is Jack Campanale and I am currently studying at WPI to<br/>
-                complete a dual BS in Computer Science and Game Development. I am<br/> 
-                interested in summer internships involving Software Engineering,<br/>
+                complete a BS in Computer Science and minor in Game Development. I am<br/> 
+                interested in full time work involving Software Engineering,<br/>
                 or programming for games!
               </p>
             </div>

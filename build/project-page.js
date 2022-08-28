@@ -9,6 +9,57 @@ class Projects extends React.Component {
     }, /* @__PURE__ */ React.createElement("div", {
       class: "card"
     }, /* @__PURE__ */ React.createElement("img", {
+      src: "./images/twgbam.png",
+      width: "405",
+      height: "200",
+      className: "projImg",
+      alt: "Tale of the Wand Guy Image"
+    }), /* @__PURE__ */ React.createElement("div", {
+      class: "card-container"
+    }, /* @__PURE__ */ React.createElement("div", {
+      className: "containerItems"
+    }, /* @__PURE__ */ React.createElement("h2", null, "Tale of the Wand Guy: Back", /* @__PURE__ */ React.createElement("br", null), "Alley Magic"), /* @__PURE__ */ React.createElement("br", null), /* @__PURE__ */ React.createElement("ul", null, /* @__PURE__ */ React.createElement("li", null, "Worked on a team of 5 to develop an Endless", /* @__PURE__ */ React.createElement("br", null), 'Runner with "reverse roguelike" aspects', /* @__PURE__ */ React.createElement("br", null), " using UE4"), /* @__PURE__ */ React.createElement("li", null, "Created game in 7 weeks including", /* @__PURE__ */ React.createElement("br", null), "alpha and beta builds, using playtesting", /* @__PURE__ */ React.createElement("br", null), " data to improve beta"), /* @__PURE__ */ React.createElement("li", null, "I worked on the player character including ", /* @__PURE__ */ React.createElement("br", null), "feel and abilities. I also worked on several ", /* @__PURE__ */ React.createElement("br", null), "minor features like sfx, intro animation, ", /* @__PURE__ */ React.createElement("br", null), "and bug fixes")), /* @__PURE__ */ React.createElement("br", null), /* @__PURE__ */ React.createElement("p", null, " The Website for this project can be found", /* @__PURE__ */ React.createElement("br", null), " ", /* @__PURE__ */ React.createElement("a", {
+      href: "https://twgbam.fun/",
+      class: "vidLink"
+    }, "here")))))), /* @__PURE__ */ React.createElement("div", {
+      className: "items"
+    }, /* @__PURE__ */ React.createElement("div", {
+      class: "card"
+    }, /* @__PURE__ */ React.createElement("img", {
+      src: "./images/optum.jpg",
+      width: "405",
+      height: "200",
+      className: "projImg",
+      alt: "Optum Logo Image"
+    }), /* @__PURE__ */ React.createElement("div", {
+      class: "card-container"
+    }, /* @__PURE__ */ React.createElement("div", {
+      className: "containerItems"
+    }, /* @__PURE__ */ React.createElement("h2", null, "Custom DevOps Dashboard", /* @__PURE__ */ React.createElement("br", null), "for Optum Developers"), /* @__PURE__ */ React.createElement("br", null), /* @__PURE__ */ React.createElement("ul", null, /* @__PURE__ */ React.createElement("li", null, "Worked on a team of 5 to develop a custom", /* @__PURE__ */ React.createElement("br", null), "DevOps Dashboard for an Optum Development", /* @__PURE__ */ React.createElement("br", null), "Team"), /* @__PURE__ */ React.createElement("li", null, "Used the Next.js framework for the frontend", /* @__PURE__ */ React.createElement("br", null), "and AWS services such as Lambda, API Gateway,", /* @__PURE__ */ React.createElement("br", null), "CDK, and DynamoDB for the backend"), /* @__PURE__ */ React.createElement("li", null, "We worked closely with the Developers to ", /* @__PURE__ */ React.createElement("br", null), "ensure the dasboard was useful for debugging")), /* @__PURE__ */ React.createElement("br", null), /* @__PURE__ */ React.createElement("p", null, " Note the image used is not my own and can", /* @__PURE__ */ React.createElement("br", null), " be found ", /* @__PURE__ */ React.createElement("a", {
+      href: "https://mms.businesswire.com/media/20211007005785/en/761229/23/Optum%28R%29_RGB.jpg",
+      class: "vidLink"
+    }, "here")))))), /* @__PURE__ */ React.createElement("div", {
+      className: "items"
+    }, /* @__PURE__ */ React.createElement("div", {
+      class: "card"
+    }, /* @__PURE__ */ React.createElement("img", {
+      src: "./images/makerspace.jpg",
+      width: "405",
+      height: "200",
+      className: "projImg",
+      alt: "Makerspace Image"
+    }), /* @__PURE__ */ React.createElement("div", {
+      class: "card-container"
+    }, /* @__PURE__ */ React.createElement("div", {
+      className: "containerItems"
+    }, /* @__PURE__ */ React.createElement("h2", null, "Increasing Accessibility and ", /* @__PURE__ */ React.createElement("br", null), "Belonging at a Makerspace"), /* @__PURE__ */ React.createElement("br", null), /* @__PURE__ */ React.createElement("ul", null, /* @__PURE__ */ React.createElement("li", null, "Worked on a team of 5 to foster accessibility", /* @__PURE__ */ React.createElement("br", null), "in training and diversity, equity, inclusion and", /* @__PURE__ */ React.createElement("br", null), "belonging at a local Makerspace"), /* @__PURE__ */ React.createElement("li", null, "Interviewed Staff, Members, Instructors", /* @__PURE__ */ React.createElement("br", null), "and DEIB Specialists"), /* @__PURE__ */ React.createElement("li", null, "Made recommendations based on the space's", /* @__PURE__ */ React.createElement("br", null), "current needs")), /* @__PURE__ */ React.createElement("br", null), /* @__PURE__ */ React.createElement("p", null, " Note the image used is not my own and can", /* @__PURE__ */ React.createElement("br", null), " be found ", /* @__PURE__ */ React.createElement("a", {
+      href: "https://media.edutopia.org/styles/responsive_2880px_16x9/s3/masters/d7_images/slates/cooper-designing-school-makerspace.jpg",
+      class: "vidLink"
+    }, "here")))))), /* @__PURE__ */ React.createElement("div", {
+      className: "items"
+    }, /* @__PURE__ */ React.createElement("div", {
+      class: "card"
+    }, /* @__PURE__ */ React.createElement("img", {
       src: "./images/memory.jpg",
       width: "405",
       height: "200",
