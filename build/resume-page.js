@@ -4,7 +4,7 @@ class Resume extends React.Component {
   render() {
     return /* @__PURE__ */ React.createElement(React.Fragment, null, /* @__PURE__ */ React.createElement(Navbar, null), /* @__PURE__ */ React.createElement("h1", null, "Resume"), /* @__PURE__ */ React.createElement("br", null), /* @__PURE__ */ React.createElement("br", null), /* @__PURE__ */ React.createElement("center", null, /* @__PURE__ */ React.createElement("iframe", {
       title: "Resume PDF Viewer",
-      src: "./images/jc_resume_update_winter2022.pdf",
+      src: "./images/jcampanale_resume_fall2022_update.pdf",
       width: "60%",
       height: "700px"
     })));

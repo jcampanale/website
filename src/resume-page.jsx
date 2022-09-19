@@ -9,7 +9,7 @@ class Resume extends React.Component {
         <h1>Resume</h1>
         <br/><br/>
         <center>
-            <iframe title='Resume PDF Viewer' src="./images/jc_resume_update_winter2022.pdf" width="60%" height="700px"/>
+            <iframe title='Resume PDF Viewer' src="./images/jcampanale_resume_fall2022_update.pdf" width="60%" height="700px"/>
         </center>
         </>
         )
